@@ -24,7 +24,7 @@ const DropDownMenu = ({ data }) => {
                             </path>
                         </g>
                     </svg>
-                    <a href="">Github</a>
+                    <a href="https://github.com/redbossrabbit/Calenda">Github</a>
                 </div>
                 <div>
                     <img src={require("../../assets/download.png")} width="10" height="12" alt="" />
